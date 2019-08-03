@@ -1,0 +1,9 @@
+[submodule "hal-toolchain"]
+	path = hal-toolchain
+	url = git@github.com:LuckyResistor/HAL-toolchain.git
+[submodule "src/hal-common"]
+	path = src/hal-common
+	url = git@github.com:LuckyResistor/HAL-common.git
+[submodule "src/hal-feather-m0"]
+	path = src/hal-feather-m0
+	url = git@github.com:LuckyResistor/HAL-feather-m0.git
